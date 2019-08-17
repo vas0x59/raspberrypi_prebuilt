@@ -1,1 +1,1 @@
-# raspberrypi_prebuilded
+# raspberrypi_prebuilt
